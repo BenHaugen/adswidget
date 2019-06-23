@@ -1,0 +1,50 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+tr {
+  display: flex;
+}
+
+td {
+  padding: .25rem;
+}
+
+#table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#disclosure {
+  margin-left: 10px;
+}
+
+.container {
+  display: table;
+  width: 100%;
+}
+
+.border {
+  padding-top: 1px;
+}
+
+.name {
+  font-size: 1rem;
+  display: flex;
+  /* display: table-cell; */
+}
+
+.branding {
+  font-size: 0.65rem;
+  font-style: italic;
+}
+
+.category {
+  font-size: 0.65rem;
+  font-style: italic;
+}
